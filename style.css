@@ -9,7 +9,7 @@ body {
   display: flex;
   color: #fdf6e3;
   background: #171717;
-  font-family: 'SF Pro Text';
+  font-family: 'Bitter', serif;
   margin-right: 9em;
   padding: 1em;
 }
@@ -35,7 +35,7 @@ nav {
 
 h1 {
   font-size: 2.2em;
-  font-family: SF Pro Display;
+  font-family: 'Bitter', serif;
   color:#fbf1c7;
   font-weight: 600;
   grid-column: 1/-1;
@@ -96,7 +96,7 @@ a {
   display: block; /* This makes the entire area clickable */
   padding: 10px; /* Adjust padding as needed */
   font-size: 1.1em;
-  font-family: SF Pro Display;
+  font-family: 'Bitter', serif;
   transition: color 0.3s ease; /* Transition for color change */
 }
 
